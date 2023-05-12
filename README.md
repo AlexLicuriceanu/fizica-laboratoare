@@ -1,4 +1,4 @@
-# Lista lucrari laborator (BN031A) si punctajele obtinute.
+# Lucrari laborator (BN031A) si punctajele obtinute.
 - [10/10p] Lab 1: Determinarea sarcinii specifice a electronului.
 - [10/10p] Lab 2: Experienta Debye-Scherrer.
 - [10/10p] Lab 3: Difractia luminii printr-o fanta.
