@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/version-v0.5%20(Tethys)-%23EC591A)][unikraft-latest] [![](https://img.shields.io/static/v1?label=license&message=BSD-3&color=%23385177)][unikraft-license]
 
-Repo pentru lucrarile de laborator din cadrul cursului de fizica.
+Repo pentru lucrarile de laborator (BN031A) din cadrul cursului de fizica.
 - Lab 1: Determinarea sarcinii specifice a electronului.
 - Lab 2: Experienta Debye-Scherrer.
 - Lab 3: Difractia luminii printr-o fanta.
