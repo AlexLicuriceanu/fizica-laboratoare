@@ -1,6 +1,4 @@
 # Fizica (F) - UPB ACS 2022-2023
-Repo care contine referatele experimentelor de laborator din cadrul cursului de fizica. 
-
 - Lab 1: Determinarea sarcinii specifice a electronului.
 - Lab 2: Experienta Debye-Scherrer.
 - Lab 3: Difractia luminii printr-o fanta.
