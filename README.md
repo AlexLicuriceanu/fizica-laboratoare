@@ -1,6 +1,6 @@
 # Fizica (F) - UPB ACS 2022-2023
 
-[![](https://img.shields.io/badge/version-v0.5%20(Tethys)-%23EC591A)][unikraft-latest] [![](https://img.shields.io/static/v1?label=license&message=BSD-3&color=%23385177)][unikraft-license]
+![](https://img.shields.io/badge/version-v0.5%20(Tethys)-%23EC591A) ![](https://img.shields.io/github/license/AlexLicuriceanu/fizica-laboratoare)
 
 Repo pentru lucrarile de laborator (BN031A) din cadrul cursului de fizica.
 - Lab 1: Determinarea sarcinii specifice a electronului.
