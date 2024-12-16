@@ -1,4 +1,4 @@
-# Fizica (F) - UPB ACS 2022-2023
+# Fizica - UPB ACS 2022-2023
 - Lab 1: Determinarea sarcinii specifice a electronului.
 - Lab 2: Experienta Debye-Scherrer.
 - Lab 3: Difractia luminii printr-o fanta.
